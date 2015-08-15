@@ -456,6 +456,8 @@ th {
 }
 .content {
   padding: 0px 15px;
+  margin: 0 auto; 
+  width: 970px;
 }
  
 .top-navigation .links > .active {
@@ -469,4 +471,30 @@ th {
 .top-navigation .links li:hover {
   cursor: pointer;
   color:#333333;
+}
+.introduction {
+  background-image: url('../images/first-background copy.jpg');
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 45.938rem;
+  text-align: center;
+
+}
+h1  {
+  color: #fff;
+}
+h3 {
+  color: #fff;
+}
+.big-button {
+  text-shadow: none;
+  border-style: none;
+  border-radius: 4px;
+  padding: 16px 26px;
+  line-height: 1.33;
+  border-color: #f15a29;
+  background-color: #f15a29;
+  font-size: 1.125rem;
+  color: white;
 }
