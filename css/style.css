@@ -438,6 +438,9 @@ th {
   font-family: 'Roboto', sans-serif;
   color: #838994;
   letter-spacing: 0.03em;
+  position: fixed;
+  width: 100%;
+  z-index: 9999;
 
 }
 .top-navigation > .content {
