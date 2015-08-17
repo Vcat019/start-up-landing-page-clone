@@ -541,3 +541,7 @@ th {
   text-align: center;
    font-family: 'Roboto', sans-serif;
 }
+.icons {
+  display: inline-block;
+}
+
