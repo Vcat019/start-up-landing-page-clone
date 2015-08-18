@@ -510,6 +510,9 @@ th {
 .cases {
   background-color: #fff;
   padding-bottom: 5rem;
+  outline: 1px solid black;
+  width: 1300px;
+  margin: 0 auto;
 }
 .cases .content {
   margin-top: 7.875rem;
@@ -528,9 +531,12 @@ th {
   height: 4em;
 }
 .devices {
-  padding-left: 300px;
-  padding-right: 50px;
+  margin-left: 75px;
+  margin-right: 50px;
   display: inline-block;
+  width: 300px;
+  outline: 1px solid black;
+  text-align: center;
 }
 .devices h3 {
   font-family: 'Roboto', sans-serif;
